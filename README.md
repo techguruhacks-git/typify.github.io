@@ -1,4 +1,6 @@
 # typify.github.io
+
+Disclaimer: Made with the help of Tutorials and i changed the user interface and add some my own features.
  
 Typify is a fun and interactive typing Web application designed to help you improve their typing speed and accuaracy. with a modern and animated user interface, Typify offers an engaging typing experience. It's perfect for anyone who wants to practive typing, track their progress, or jst enjoy typing challenges.
 
